@@ -84,9 +84,7 @@
     height: 50%;
     width: 50%;
     margin: 20px;
-    text-align:center;
     padding: 20px;
-    
 }
 .menu{
     border: 5px solid red;
@@ -101,5 +99,8 @@
     font-size: larger;
 }
 li{
-    text-align:justify;
+    padding-left: 70px;
+}
+h2{
+    text-align: center;
 }
